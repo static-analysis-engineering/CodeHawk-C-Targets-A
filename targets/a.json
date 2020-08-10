@@ -1,0 +1,35 @@
+{
+    "targets": {
+	"cairo": {
+	    "path": "cairo",
+	    "version": "cairo-1.14.12"
+	},
+	"cleanflight": {
+	    "path": "cleanflight",
+	    "version": "cleanflight-CLFL_v2.3.2"
+	},
+	"curl": {
+	    "path": "curl",
+	    "version": "curl-7.62.0"
+	},
+	"git": {
+	    "path": "git",
+	},
+	"nginx": {
+	    "path": "nginx",
+	    "version": "nginx-1.2.9"
+	},
+	"openssl": {
+	    "path": "openssl",
+	    "version": "openssl-1.0.1f"
+	},
+	"putty": {
+	    "path": "putty",
+	    "version": "putty-0.70"
+	},
+	"wpa_supplicant": {
+	    "path": "wpa_supplicant",
+	    "version"; "wpa_supplicant-2.6"
+	}
+    }
+}
