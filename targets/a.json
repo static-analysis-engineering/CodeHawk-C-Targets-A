@@ -13,7 +13,7 @@
 	    "version": "curl-7.62.0"
 	},
 	"git": {
-	    "path": "git",
+	    "path": "git"
 	},
 	"nginx": {
 	    "path": "nginx",
@@ -29,7 +29,7 @@
 	},
 	"wpa_supplicant": {
 	    "path": "wpa_supplicant",
-	    "version"; "wpa_supplicant-2.6"
+	    "version": "wpa_supplicant-2.6"
 	}
     }
 }
